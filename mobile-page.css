@@ -37,7 +37,7 @@
   }
 
   .p-details {
-    margin-left: 20px;
+    margin-left: 0px;
   }
 
   .price{
@@ -51,11 +51,15 @@
   .p-details h4 {
     font-size: 12px;
     margin-top: 10px;
+    margin: auto;
   }
   
   .button {
     font-size: 12px;
     width: 60%;
+    margin: auto;
   }
   
-  
+  .sizes {
+    margin: auto;
+  }

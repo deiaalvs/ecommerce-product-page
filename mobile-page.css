@@ -10,11 +10,11 @@
 
   .h-icons {
       display: flex;
-      flex-direction: column;
+      flex-direction: row;
   }
 
   .fa-solid {
-      margin: 5px 0;
+      margin: 5px 10px;
       font-size: 12px;
   }
 
@@ -40,8 +40,15 @@
     margin-left: 0px;
   }
 
-  .price{
+  .p-details h2 {
+    margin: auto;
+    margin-bottom: 5px;
+  }
+
+  .price {
     font-size: 12px;
+    margin: auto;    
+    margin-bottom: 10px;
   }
   
   .p-par {

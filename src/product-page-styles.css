@@ -23,7 +23,7 @@
   margin: auto;
   background-color: white;
   box-shadow: 1px 1px 5px rgba(99, 99, 99, 0.05);
-  padding: 0 100px;
+  padding: 0 70px;
 }
 
 .header .title {
@@ -45,8 +45,6 @@
   justify-content: left;
   background-color: #f9f9f9;
   top: 5px;
-  
-  padding-left: 100px;
 }
 
 .photos {

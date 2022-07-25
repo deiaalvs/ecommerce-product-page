@@ -4,6 +4,10 @@
     font-size: 12px;
   }
 
+  .header {
+    padding: 0 30px;
+  }
+
   .h-icons {
       display: flex;
       flex-direction: column;

@@ -56,7 +56,7 @@
 }
 
 .main-photo {
-  background-image: url("./img/card2.png");
+  background-image: url("./src/img/card2.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -90,7 +90,7 @@
 }
 
 .sphotos:nth-child(1) {
-  background-image: url("./img/card10.png");
+  background-image: url("./src/img/card10.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -98,14 +98,14 @@
 
 
 .sphotos:nth-child(2) {
-  background-image: url("./img/card11.png");
+  background-image: url("./src/img/card11.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .sphotos:nth-child(3) {
-  background-image: url("./img/card12.png");
+  background-image: url("./src/img/card12.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

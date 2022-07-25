@@ -23,26 +23,20 @@
   margin: auto;
   background-color: white;
   box-shadow: 1px 1px 5px rgba(99, 99, 99, 0.05);
+  padding: 0 100px;
 }
 
 .header .title {
   text-transform: uppercase;
-  margin-left: 130px;
-}
-
-.header .fa-bag-shopping {
-  margin-right: 100px;
 }
 
 .header i {
   margin-right: 20px;
 }
 
-
-
 .product-area {
   position: relative;
-  width: 80%;
+  width: 90%;
   height: 100vh;
   margin: auto;
   padding-top: 20px;
@@ -51,6 +45,8 @@
   justify-content: left;
   background-color: #f9f9f9;
   top: 5px;
+  
+  padding-left: 100px;
 }
 
 .photos {
@@ -71,10 +67,6 @@
   margin-right: 70px;
   border: 1px solid white;
   border-radius: 5px;
-}
-
-.main-photo:hover {
-  background-image: url("./img/card9.png");
 }
 
 .sec-photos {
@@ -106,9 +98,6 @@
   background-size: cover;
 }
 
-.sec-photos:nth-child(1):hover ~ .main-photo{
-  background-image: url("./img/card1.png");
-}
 
 .sphotos:nth-child(2) {
   background-image: url("./img/card11.png");

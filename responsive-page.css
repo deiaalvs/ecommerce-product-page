@@ -18,7 +18,7 @@
 
   .photos {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     width: 90%;
     margin-left: 50px;
@@ -33,11 +33,12 @@
   
   .sec-photos {
     display: flex;
-    flex-direction: column;
-    width: 100px;
-    height: 375px;
-    margin-left: 10px;
+    flex-direction: row;
+    width: 400px;
+    height: 100px;
+    margin-left: 0px;
     margin-top: 0;
+    margin-bottom: 30px;
   }
   
   .sphotos {
